@@ -1,4 +1,0 @@
-Question 1: [16 points]
-Part A: Below is a Python program designed to output all numbers from 0 to 6, exluding 3 and 6. Complete the missing part in the given code.
-Part B: The function vowel_counter() accepts a string as input and output the  count of vowels contained within it. If the string lacks vowels, it should display "No vowels". Fill in the missing sections of the provided Code.
-Part C: Given a list of integers representing the daily temperatures for a week (in Celsius). Fill in the Python function called find_warm_days that takes two parameters: temp (indicating temperature, a list of integers) and threshold (an integer). The function should print the number of days where the temperature exceeds or equals the given threshold for at least two consecutive days.

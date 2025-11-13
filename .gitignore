@@ -1,4 +1,11 @@
+# 虚拟环境
+.venv*
 venv/
+
+# Python 缓存
 __pycache__/
 *.pyc
-output.txt
+
+# 本地配置
+.env
+

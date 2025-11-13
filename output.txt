@@ -1,1 +1,0 @@
-Deep learning is a branch of machine learning that focuses on using artificial neurons to train computers to learn new skills. Some common deep learning network architectures include fully connected networks, deep belief networks, recurrent neural networks, radianceal neural networks, generative adversarial networks, transformers, and neural fields.
